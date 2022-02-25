@@ -1,4 +1,6 @@
-### Hi there 👋
+### 又菜又爱玩
+
+[![Siyi Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siyi-Huang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Siyi-Huang/Siyi-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
