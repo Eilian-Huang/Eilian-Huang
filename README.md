@@ -1,9 +1,9 @@
 ### 又菜又爱玩
 
-[![Siyi Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siyi-Huang)](https://github.com/anuraghazra/github-readme-stats)
+[![Eilian Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eilian-Huang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Siyi-Huang/Siyi-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eilian-Huang/Eilian-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
